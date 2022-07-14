@@ -20,7 +20,7 @@ function Navbar() {
             <a href="#wwhgpt3">What is GPT</a>
           </p>
           <p>
-            <a href="#possibility">OpenApi</a>
+            <a href="#poss">OpenApi</a>
           </p>
           <p>
             <a href="#feature">Case studies</a>
