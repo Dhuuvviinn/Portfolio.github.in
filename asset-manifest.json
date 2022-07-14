@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio.github.in/static/css/main.c97c9b2c.css",
+    "main.js": "/Portfolio.github.in/static/js/main.8142b22d.js",
+    "static/js/787.c509696c.chunk.js": "/Portfolio.github.in/static/js/787.c509696c.chunk.js",
+    "static/media/ai.png": "/Portfolio.github.in/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/Portfolio.github.in/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/Portfolio.github.in/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/Portfolio.github.in/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/Portfolio.github.in/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/Portfolio.github.in/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/Portfolio.github.in/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/Portfolio.github.in/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/Portfolio.github.in/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/Portfolio.github.in/index.html",
+    "main.c97c9b2c.css.map": "/Portfolio.github.in/static/css/main.c97c9b2c.css.map",
+    "main.8142b22d.js.map": "/Portfolio.github.in/static/js/main.8142b22d.js.map",
+    "787.c509696c.chunk.js.map": "/Portfolio.github.in/static/js/787.c509696c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97c9b2c.css",
+    "static/js/main.8142b22d.js"
+  ]
+}
