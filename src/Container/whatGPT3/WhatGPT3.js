@@ -3,7 +3,7 @@ import Features from '../features/Features';
 import './WhatGPT3.css';
 function WhatGPT3() {
   return (
-    <div className="gpt3__whatgpt3 section_margin" id="whgpt3">
+    <div className="gpt3__whatgpt3 section_margin" id="wwhgpt3">
       <div className="gpt3">
         <h1>What is GPT3</h1>
 
